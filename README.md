@@ -12,7 +12,7 @@
 ### Other Projects
 - **Jetson Nano-AWS 연동 반도체 웨이퍼 패턴 결함 검출 시스템** (2025.03 - 2025.06  4개월)
 - **Object Detection AI 기반 플로깅 어플리케이션** (2024.09 - 2024.12  4개월)
-- **Raspberry Pi 기반 Zigbee -MQTT Io T 기기 제어 플랫폼** (2024.09 - 2024.12  4개월)
+- **Raspberry Pi 기반 Zigbee-MQTT IoT 기기 제어 플랫폼** (2024.09 - 2024.12  4개월)
 
 ### Certifications
 - **AWS Certified Solutions Architect - Associate** (2026.08)
