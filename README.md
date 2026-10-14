@@ -22,14 +22,16 @@
 - **SQLD** (2025.09)
 
 
+
 ### Tech Stack
 
 | 카테고리 | 기술 |
 |:---|:---|
 | **Cloud & Infrastructure** | AWS · Kubernetes · Terraform · Docker · Linux |
-| **CI/CD & GitOps** | GitHub Actions · Argo CD · Helm · Git |
+| **CI/CD & GitOps** | GitHub Actions · GitLab CI · ArgoCD · Helm · Git |
 | **Monitoring** | Prometheus · Grafana |
 | **Development** | Python · Java · Spring Boot · FastAPI |
+
 
 
 
